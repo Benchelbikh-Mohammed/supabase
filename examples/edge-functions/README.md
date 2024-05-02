@@ -1,6 +1,6 @@
 # Supabase Edge Function Examples
 
-## What are Supabase Edge Functions?
+## What are Supabase Edge Functions? 
 
 [Supabase Edge Functions](https://supabase.com/edge-functions) are written in TypeScript, run via Deno, and deployed with the Supabase CLI. Please [download](https://github.com/supabase/cli#install-the-cli) the latest version of the Supabase CLI, or [upgrade](https://github.com/supabase/cli#install-the-cli) it if you have it already installed.
 
